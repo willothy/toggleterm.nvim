@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.7.2](https://github.com/akinsho/toggleterm.nvim/compare/v2.7.1...v2.7.2) (2023-08-03)
+
+
+### Bug Fixes
+
+* TermExec cmd with config.shell as function ([#467](https://github.com/akinsho/toggleterm.nvim/issues/467)) ([83871e3](https://github.com/akinsho/toggleterm.nvim/commit/83871e3c34837117644d83f422ee6c869b61891f))
+
 ## [2.7.1](https://github.com/akinsho/toggleterm.nvim/compare/v2.7.0...v2.7.1) (2023-07-10)
 
 
